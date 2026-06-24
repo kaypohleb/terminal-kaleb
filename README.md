@@ -1,5 +1,6 @@
 # terminal-kaleb
 
+
 SSH server ([Wish](https://github.com/charmbracelet/wish)) that serves a [Bubble Tea](https://github.com/charmbracelet/bubbletea) TUI per session.
 
 ## Prerequisite
@@ -28,3 +29,7 @@ ssh -p 23234 localhost
 Press `q` to disconnect.
 
 For local dev, you can use [Wish’s `~/.ssh/config` tip](https://github.com/charmbracelet/wish#pro-tip) to avoid `known_hosts` churn.
+
+
+Choose your own adventure
+##page - option destination - action
